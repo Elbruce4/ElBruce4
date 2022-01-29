@@ -1,4 +1,4 @@
-### Hi there 👋 im Elbruce, you also can call me Bruno if you like spanisg language  
+### Hi there 👋 im Elbruce, you also can call me Bruno if you like spanish language  
 
 <!--
 **Elbruce4/ElBruce4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
