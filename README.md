@@ -33,4 +33,4 @@ Techs : JavaScipt | React JS | Redux | Node JS | Express | PostgreSQL
 
 #### Find me:
 
-[![]<img src="linkedin.png" width="100">](https://www.linkedin.com/in/bruno-lococo-fullstackdeveloper/)
+![<img src="linkedin.png" width="100">](https://www.linkedin.com/in/bruno-lococo-fullstackdeveloper/)
