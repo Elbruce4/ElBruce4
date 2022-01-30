@@ -16,4 +16,6 @@ About me:
 
 #### Development Tools:
 
-![alt text](https://img1.freepng.es/20180720/bv/kisspng-javascript-logo-html-clip-art-javascript-logo-5b5188b13c2314.0304322315320700652463.jpg)
+<!-- ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png) -->
+
+<img src="js.png" width="100">
