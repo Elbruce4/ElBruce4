@@ -18,10 +18,4 @@ About me:
 
 <!-- ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png) -->
 
-<img src="js.png" width="80">
-<img src="html.png" width="80">
-<img src="css.png" width="80">
-<img src="nodeJs.png" width="80">
-<img src="PostGreSQL.png" width="80">
-<img src="react.png" width="80">
-<img src="redux.png" width="80">
+<img src="js.png" width="80"><img src="html.png" width="80"><img src="css.png" width="80"><img src="nodeJs.png" width="80"><img src="PostGreSQL.png" width="80"><img src="react.png" width="80"><img src="redux.png" width="80">
