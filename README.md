@@ -26,10 +26,8 @@ Pokemon SPA
 
 Techs : JavaScipt | React JS | Redux | Node JS | Express | PostgreSQL
 
-<img src="Captura de pantalla (333).png" width="300">
-<img src="Captura de pantalla (334).png" width="300">
-<img src="Captura de pantalla (335).png" width="300">
-<img src="Captura de pantalla (336).png" width="300">
+<img src="Captura de pantalla (333).png" width="300"><img src="Captura de pantalla (334).png" width="300">
+<img src="Captura de pantalla (335).png" width="300"><img src="Captura de pantalla (336).png" width="300">
 
 #### Find me:
 
